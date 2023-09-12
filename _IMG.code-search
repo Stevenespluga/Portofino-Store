@@ -1,0 +1,67 @@
+# Query: /IMG
+# ContextLines: 1
+
+15 results - 3 files
+
+tiendaonline\index.html:
+   23  
+   24:                     <img src="/tiendaonline/IMG/logo.png" alt="logo" class="logo-img">
+   25                  </a>
+
+   48                          <div class="producto-blanco">
+   49:                             <img src="/tiendaonline/IMG/rojo.png" alt="poloche rojo">
+   50  
+
+   65                          <div class="producto-blanco">
+   66:                             <img src="/tiendaonline/IMG/negro.png" alt="poloche negro">
+   67  
+
+   83                          <div class="producto-blanco">
+   84:                             <img src="/tiendaonline/IMG/abrigo.png" alt="poloche rojo">
+   85  
+
+  101                          <div class="producto-blanco">
+  102:                             <img src="/tiendaonline/IMG/TenisRojo.png" alt="poloche rojo">
+  103  
+
+  119                          <div class="producto-blanco">
+  120:                             <img src="/tiendaonline/IMG/tenisMorado.png" alt="poloche rojo">
+  121  
+
+  137                          <div class="producto-blanco">
+  138:                             <img src="/tiendaonline/IMG/tenisVerde.png" alt="poloche rojo">
+  139  
+
+  155                          <div class="producto-blanco">
+  156:                             <img src="/tiendaonline/IMG/tenisRosa.png" alt="poloche rojo">
+  157  
+
+  173                          <div class="producto-blanco">
+  174:                             <img src="/tiendaonline/IMG/tacones.png" alt="poloche rojo">
+  175  
+
+  191                          <div class="producto-blanco">
+  192:                             <img src="/tiendaonline/IMG/botas.png" alt="poloche rojo">
+  193  
+
+tiendaonline\nosotros.html:
+  23  
+  24:                     <img src="/tiendaonline/IMG/logo.png" alt="logo" class="logo-img">
+  25                  </a>
+
+  41                  <div class="nosotros">
+  42:                     <img class="nosotros-img" src="/tiendaonline/IMG/abrigo.png" alt="nosotros">
+  43  
+
+  67                          <!--IMG-->
+  68:                         <img src="/tiendaonline/IMG/SEGURIDAD.svg" alt="SEGURIDAD">
+  69                          <h3 class="bloque-titulo">Protección</h3>
+
+  78                          <!--IMG-->
+  79:                         <img src="/tiendaonline/IMG/entrega.svg" alt="entrega">
+  80                          <h3 class="bloque-titulo">Protección</h3>
+
+tiendaonline\CSS\style.css:
+  10  .img-fondo{
+  11: background-image: url(/tiendaonline/IMG/tienda.jpg);
+  12  }
